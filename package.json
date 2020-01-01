@@ -1,0 +1,15 @@
+{
+  "name": "website_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+    "homepage":"https://viraatsworld.github.io/website_git"
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
